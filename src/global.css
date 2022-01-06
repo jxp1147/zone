@@ -1,0 +1,16 @@
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.ant-layout{
+  background: #fff!important;
+}
+
+.ant-layout-sider{
+  background:rgba(1, 1, 1, 0)!important;
+  /* height: 100%; */
+}
